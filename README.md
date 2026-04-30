@@ -37,7 +37,7 @@ Foundry for everything Solidity, TS for tooling, Rust when latency actually matt
 - Project work lives here on GitHub.
 - I don't really do Twitter, but I'll show up in any thread arguing about whether MEV is good or bad.
 
-If you're building something interesting on Ethereum and want a second pair of eyes on a contract, open an issue on one of my repos and I'll find it.
+If you're building something interesting on Ethereum and want a second pair of eyes on a contract, open an issue on one of my repos and I'll find it. I'm not always fast, but I do reply.
 
 ---
 
